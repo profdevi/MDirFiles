@@ -11,6 +11,7 @@ Tool for deleting, keeping, and printing out files with extensions recursively f
       -cathead  :  print out contents all files with extensions with header
 
    examples:
+   
        1)   List all .h .cpp files
             C:> MDirFiles -list .h .cpp
 
