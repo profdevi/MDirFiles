@@ -2,6 +2,7 @@
 Tool for deleting, keeping, and printing out files with extensions recursively from a working directory
 
   usage:  MDirFiles [-?][-list][-del|[-keep] <extensions>*
+  
            v1.0 copyright Comine.com
 
       -list     :  list files with extensions
