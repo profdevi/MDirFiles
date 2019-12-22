@@ -1,5 +1,5 @@
 # MDirFiles
-Tool for deleting, keeping, and printing out files with extensions recursively from a working directory
+Tool for deleting, keeping, and printing out files with extensions recursively from a working directory.
 
   usage:  MDirFiles [-?][-list][-del|[-keep] <extensions>*
   
@@ -22,4 +22,8 @@ Tool for deleting, keeping, and printing out files with extensions recursively f
        3)   Kepp only .h .cpp files.  Delete all others
             C:> MDirFiles -keep .h .cpp
 
+
+# Building with CMake
+
+There is a CMakeLists.txt in the src directory
 
